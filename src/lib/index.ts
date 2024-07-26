@@ -1,3 +1,2 @@
-export { default as ThemeLayout } from './ThemeLayout';
-export { render } from './CustomRender';
-export { theme } from './theme';
+export { default as ThemeLayout } from "./ThemeLayout";
+export { theme } from "./theme";
